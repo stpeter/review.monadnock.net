@@ -1,0 +1,32 @@
+BODY {
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    }
+A:link {
+    color: #336699;
+    }
+A:visited {
+    color: #663399;
+    }
+H1, H2, H3, H4, H5, H6 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #336699;
+    }
+UL {
+    list-style: disc outside;
+    }
+.separator {
+    margin-left: 10%;
+    font-size: large;
+    }
+DIV.original {
+    font-size: smaller;
+    }
+DIV.footer {
+    font-size: smaller;
+    }
+.new {
+    color: #FF0000;
+    }

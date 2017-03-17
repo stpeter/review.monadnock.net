@@ -1,0 +1,26 @@
+BODY {
+	margin-left: 5%;
+	margin-right: 5%;
+	}
+
+A:link { color: #333399 }
+
+A:visited { color: #663399 }
+
+H1 {
+	font-family: Algerian;
+	color: #330099;
+	}
+
+H2 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #330099;
+	}
+
+BLOCKQUOTE {
+	margin: 0pt 12pt 0pt 0pt;
+	font-size: 83%;
+	}
+
+UL { list-style: disc outside }
+

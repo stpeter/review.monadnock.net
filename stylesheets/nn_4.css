@@ -1,0 +1,31 @@
+BODY {
+	margin-left: 5%;
+	margin-right: 5%;
+	}
+A:link {
+	color: #333399;
+	}
+A:visited {
+	color: #663399;
+	}
+H1, H2, H3, H4, H5 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #330099;
+	}
+P {
+	margin-top: 12pt;
+	margin-bottom: 0pt;
+	}
+BLOCKQUOTE {
+	margin: 0pt 12pt;
+	font-size: 83%;
+	}
+UL {
+	list-style: disc outside;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	}
+OL {
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	}
